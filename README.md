@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./banner.png" alt="Muhammad Faari Akbar - Profile Banner" width="100%" />
+<img src="./banner.png" alt="Muhammad Faari Akbar - Cognitive Architecture & Digital Craftsmanship" width="100%" />
 
 # MUHAMMAD FAARI AKBAR
 ### Behavioral Psychology &bull; Data Analytics &bull; Digital Product Builder &bull; Game Concept Designer
 
 [![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-IN%2FFAARIMUHAMMAD-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faarimuhammad)
 [![GitHub Repositories](https://img.shields.io/badge/GITHUB-7_FEATURED_SHOWCASES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faarimuhammad2502?tab=repositories)
-[![Domain Focus](https://img.shields.io/badge/FOCUS-TALENT_ANALYTICS_%26_DIGITAL_SYSTEMS-f59e0b?style=for-the-badge)](https://linkedin.com/in/faarimuhammad)
+[![Domain Focus](https://img.shields.io/badge/FOCUS-TALENT_ANALYTICS_%26_DIGITAL_SYSTEMS-d97706?style=for-the-badge)](https://linkedin.com/in/faarimuhammad)
 [![Location](https://img.shields.io/badge/LOCATION-JAKARTA%2C_INDONESIA-0284c7?style=for-the-badge)](https://github.com/faarimuhammad2502)
 
-**[LinkedIn](https://linkedin.com/in/faarimuhammad)** &bull; **[Featured Showcases](#-curated-engineering--design-showcases)** &bull; **[Core Competencies](#-core-competency-matrix)** &bull; **[Professional Background](#-professional-background--philosophy)**
+**[LinkedIn](https://linkedin.com/in/faarimuhammad)** &bull; **[Featured Showcases](#curated-engineering--design-showcases)** &bull; **[Core Competencies](#core-competency-matrix)** &bull; **[Professional Background](#professional-background--philosophy)**
 
 </div>
 
@@ -48,12 +48,18 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 
 ---
 
-### 3. Cross-Platform Mobile & Creative Game Design
+### 3. Narrative Architecture & Atmospheric Game Concepts
+
+<div align="center">
+
+<img src="./creative-banner.png" alt="Creative Narrative & Atmospheric Game Design - ROUGHTALE 8" width="100%" />
+
+</div>
 
 | Repository | Domain & Architecture | Core Highlights |
 |:---|:---|:---|
+| **[roughtale8](https://github.com/faarimuhammad2502/roughtale8)** | Original Psychological Horror Game Concept | An original 5-character branching narrative set in the 8th and final cycle of world annihilation. Deeply explores cyclical trauma, consequence matrices, psychological horror, and existential acceptance. |
 | **[pymobile-calc](https://github.com/faarimuhammad2502/pymobile-calc)** | Cross-Platform Mobile Application (Python / Flet) | Scientific calculator and unit conversion engine built on Python with Google's **Flutter** engine. Implements strict **MVC separation**, notch-safe mobile insets, and zero-latency reactive state updates. |
-| **[roughtale8](https://github.com/faarimuhammad2502/roughtale8)** | Original Psychological Horror Game Concept | An original 5-character branching narrative set in the 8th and final cycle of world annihilation. Deeply explores cyclical trauma, consequence matrices, and existential acceptance. |
 
 ---
 
