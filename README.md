@@ -6,12 +6,12 @@
 ### Behavioral Psychology &bull; Data Analytics &bull; Digital Product Builder &bull; Game Concept Designer
 
 [![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-IN%2FFAARIMUHAMMAD-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faarimuhammad)
-[![GitHub Repositories](https://img.shields.io/badge/GITHUB-7_FEATURED_SHOWCASES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faarimuhammad2502?tab=repositories)
+[![GitHub Repositories](https://img.shields.io/badge/GITHUB-FEATURED_SHOWCASES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faarimuhammad2502?tab=repositories)
 [![Domain Focus](https://img.shields.io/badge/FOCUS-TALENT_ANALYTICS_%26_DIGITAL_SYSTEMS-d97706?style=for-the-badge)](https://linkedin.com/in/faarimuhammad)
 [![Location](https://img.shields.io/badge/LOCATION-JAKARTA%2C_INDONESIA-0284c7?style=for-the-badge)](https://github.com/faarimuhammad2502)
 [![Profile Views](https://komarev.com/ghpvc/?username=faarimuhammad2502&color=f59e0b&style=for-the-badge&label=PORTFOLIO+VIEWS)](https://github.com/faarimuhammad2502)
 
-**[LinkedIn](https://linkedin.com/in/faarimuhammad)** &bull; **[Featured Showcases](#curated-engineering--design-showcases)** &bull; **[Engineering Telemetry](#engineering-telemetry--activity)** &bull; **[Core Competencies](#core-competency-matrix)**
+**[LinkedIn](https://linkedin.com/in/faarimuhammad)** &bull; **[Featured Showcases](#curated-engineering--design-showcases)** &bull; **[Recruiter Brief](#recruiter-quick-brief-the-strategic-roi-of-psychology--data-analytics)** &bull; **[Engineering Telemetry](#engineering-telemetry--activity)**
 
 </div>
 
@@ -28,6 +28,31 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 
 ---
 
+## Recruiter Quick Brief: The Strategic ROI of Psychology × Data Analytics
+
+<details>
+<summary><b>Why hire a product builder with a behavioral psychology & data background? (Click to expand)</b></summary>
+
+<br/>
+
+> *"Most engineering challenges in enterprise software, EdTech, and consumer applications are fundamentally human challenges: cognitive friction, misaligned mental models, and unaddressed behavioral incentives."*
+
+### 1. Cognitive Ergonomics & High-Adoption UI/UX
+- **The Challenge:** Enterprise systems (HRIS, payroll, internal portals) frequently suffer from low employee adoption and high error rates due to cognitive overload.
+- **My Strategic Value:** Applying cognitive psychology doctrines (Miller's Law of chunking, progressive disclosure, and perceptual clarity) to design zero-training interfaces that employees, students, and educators navigate intuitively.
+
+### 2. Algorithmic Precision in People & Labor Systems
+- **The Challenge:** Indonesian statutory labor regulations (PP 58/2023 TER PPh 21, PP 35/36 2021) and compensation hierarchies are complex and vulnerable to payroll discrepancies when managed manually.
+- **My Strategic Value:** Combining empathy for employee fairness with rigorous mathematical logic—building transparent, automated payroll and tax compliance engines that foster organizational trust.
+
+### 3. Rapid Vibe Coding & Zero-Latency Execution
+- **The Challenge:** Traditional software development lifecycles take months of requirement gathering, often resulting in delayed business value.
+- **My Strategic Value:** Leveraging lightweight, modern full-stack architectures (modular vanilla stacks, Tailwind CSS, Supabase, Python Flet) to transform abstract HR and educational requirements into production-ready software in days rather than quarters.
+
+</details>
+
+---
+
 ## Curated Engineering & Design Showcases
 
 ### 1. Enterprise HR & Statutory Financial Systems
@@ -35,6 +60,7 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 | Repository | Domain & Architecture | Core Highlights |
 |:---|:---|:---|
 | **[PayRoll](https://github.com/faarimuhammad2502/PayRoll)** | Human Resources Information System & Statutory Compliance | Fully compliant with Indonesian labor regulations (**PP 58/2023 TER PPh 21**, **PP 35/36 2021**). Features a 3-tier organizational hierarchy, overtime calculation algorithms, and multi-tenant department routing. |
+| **[sovereign-wealth](https://github.com/faarimuhammad2502/sovereign-wealth)** | Personal Wealth Management PWA | Mobile-first editorial wealth tracking application crafted with Google Stitch. Features multi-currency conversion, visual cashflow dynamics, portfolio analytics, and privacy toggles. |
 | **[we-saves](https://github.com/faarimuhammad2502/we-saves)** | Dual-Ledger Collaborative FinTech Platform | Shared financial management system designed for partners and couples. Features zero-backend privacy-first `localStorage` persistence, PIN authorization, and multi-wallet reconciliation. |
 
 ---
