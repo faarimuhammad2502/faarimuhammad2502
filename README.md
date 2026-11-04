@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="./banner-golden.png" alt="Muhammad Faari Akbar - Cognitive Architecture & Digital Craftsmanship" width="100%" />
 
@@ -9,8 +9,9 @@
 [![GitHub Repositories](https://img.shields.io/badge/GITHUB-7_FEATURED_SHOWCASES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faarimuhammad2502?tab=repositories)
 [![Domain Focus](https://img.shields.io/badge/FOCUS-TALENT_ANALYTICS_%26_DIGITAL_SYSTEMS-d97706?style=for-the-badge)](https://linkedin.com/in/faarimuhammad)
 [![Location](https://img.shields.io/badge/LOCATION-JAKARTA%2C_INDONESIA-0284c7?style=for-the-badge)](https://github.com/faarimuhammad2502)
+[![Profile Views](https://komarev.com/ghpvc/?username=faarimuhammad2502&color=f59e0b&style=for-the-badge&label=PORTFOLIO+VIEWS)](https://github.com/faarimuhammad2502)
 
-**[LinkedIn](https://linkedin.com/in/faarimuhammad)** &bull; **[Featured Showcases](#curated-engineering--design-showcases)** &bull; **[Core Competencies](#core-competency-matrix)** &bull; **[Professional Background](#professional-background--philosophy)**
+**[LinkedIn](https://linkedin.com/in/faarimuhammad)** &bull; **[Featured Showcases](#curated-engineering--design-showcases)** &bull; **[Engineering Telemetry](#engineering-telemetry--activity)** &bull; **[Core Competencies](#core-competency-matrix)**
 
 </div>
 
@@ -42,9 +43,9 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 
 | Repository | Domain & Architecture | Core Highlights |
 |:---|:---|:---|
-| **[EnglishSteps-Michelle](https://github.com/faarimuhammad2502/EnglishSteps-Michelle)** | Adaptive Language Learning & Cloud Verification | Comprehensive **CEFR A0â€“A1** platform featuring a 1,000-word lexical corpus, speech synthesis, **Supabase PostgreSQL** cloud persistence, and a public cryptographic certificate verification portal. *[Live Deployment](https://englishsteps-michelle.vercel.app)* |
-| **[web-aplikasi-belajar-omahles](https://github.com/faarimuhammad2502/web-aplikasi-belajar-omahles)** | Early Childhood & Primary EdTech Portal | Multi-tier educational software for Kindergarten and Grades 1â€“6. Built on Vygotskian ZPD principles with interactive math, literacy modules, and gamified achievement feedback. *[Live Deployment](https://web-aplikasi-omahles.vercel.app)* |
-| **[cept](https://github.com/faarimuhammad2502/cept)** | Cambridge CEFR Assessment Engine | Diagnostic English evaluation platform benchmarking learners toward Cambridge B2â€“C1 standards. Integrates native Web Speech British listening modules and diagnostic scoring matrices. |
+| **[EnglishSteps-Michelle](https://github.com/faarimuhammad2502/EnglishSteps-Michelle)** | Adaptive Language Learning & Cloud Verification | Comprehensive **CEFR A0–A1** platform featuring a 1,000-word lexical corpus, speech synthesis, **Supabase PostgreSQL** cloud persistence, and a public cryptographic certificate verification portal. *[Live Deployment](https://englishsteps-michelle.vercel.app)* |
+| **[web-aplikasi-belajar-omahles](https://github.com/faarimuhammad2502/web-aplikasi-belajar-omahles)** | Early Childhood & Primary EdTech Portal | Multi-tier educational software for Kindergarten and Grades 1–6. Built on Vygotskian ZPD principles with interactive math, literacy modules, and gamified achievement feedback. *[Live Deployment](https://web-aplikasi-omahles.vercel.app)* |
+| **[cept](https://github.com/faarimuhammad2502/cept)** | Cambridge CEFR Assessment Engine | Diagnostic English evaluation platform benchmarking learners toward Cambridge B2–C1 standards. Integrates native Web Speech British listening modules and diagnostic scoring matrices. |
 
 ---
 
@@ -60,6 +61,22 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 |:---|:---|:---|
 | **[roughtale8](https://github.com/faarimuhammad2502/roughtale8)** | Original Psychological Horror Game Concept | An original 5-character branching narrative set in the 8th and final cycle of world annihilation. Deeply explores cyclical trauma, consequence matrices, psychological horror, and existential acceptance. |
 | **[pymobile-calc](https://github.com/faarimuhammad2502/pymobile-calc)** | Cross-Platform Mobile Application (Python / Flet) | Scientific calculator and unit conversion engine built on Python with Google's **Flutter** engine. Implements strict **MVC separation**, notch-safe mobile insets, and zero-latency reactive state updates. |
+
+---
+
+## Engineering Telemetry & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faarimuhammad2502&show_icons=true&bg_color=070A12&title_color=F59E0B&text_color=E2E8F0&icon_color=38BDF8&border_color=1E293B" alt="GitHub Engineering Telemetry" height="175" />
+&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faarimuhammad2502&layout=compact&bg_color=070A12&title_color=F59E0B&text_color=E2E8F0&border_color=1E293B" alt="Top Languages Breakdown" height="175" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faarimuhammad2502&theme=transparent&background=070A12&ring=F59E0B&fire=F59E0B&currStreakNum=38BDF8&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&border=1E293B" alt="GitHub Contribution Streak" width="100%" />
+
+</div>
 
 ---
 
@@ -83,10 +100,10 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 
 ## Professional Background & Philosophy
 
-- **Education:** S1 Psikologi, Universitas Muhammadiyah Prof. Dr. Hamka (UHAMKA) Jakarta (2018â€“2024).
+- **Education:** S1 Psikologi, Universitas Muhammadiyah Prof. Dr. Hamka (UHAMKA) Jakarta (2018–2024).
 - **Practical Experience:**
-  - **Shadow Teacher / Student Mentoring:** SMAIT Buahati Islamic School (July 2025 â€“ Present) &mdash; Behavioral guidance, cognitive adaptation, and personalized pedagogical support.
-  - **Business Analyst Intern:** PT Mahabudi (Jan 2024 â€“ Dec 2024) &mdash; Process mapping, data verification, and operational workflow analysis.
+  - **Shadow Teacher / Student Mentoring:** SMAIT Buahati Islamic School (July 2025 – Present) &mdash; Behavioral guidance, cognitive adaptation, and personalized pedagogical support.
+  - **Business Analyst Intern:** PT Mahabudi (Jan 2024 – Dec 2024) &mdash; Process mapping, data verification, and operational workflow analysis.
 - **Certifications:** Talent Management Specialist, Data Analysis Fundamentals.
 - **Execution Philosophy:** *Clarity over complexity, execution over endless planning, and human value over superficial decoration.*
 
@@ -97,4 +114,3 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 - **LinkedIn:** [linkedin.com/in/faarimuhammad](https://linkedin.com/in/faarimuhammad)
 - **GitHub:** [github.com/faarimuhammad2502](https://github.com/faarimuhammad2502)
 - **Location:** Jakarta, Indonesia
-
