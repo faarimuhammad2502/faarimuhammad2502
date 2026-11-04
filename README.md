@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="./banner.png" alt="Muhammad Faari Akbar - Cognitive Architecture & Digital Craftsmanship" width="100%" />
+<img src="./banner-golden.png" alt="Muhammad Faari Akbar - Cognitive Architecture & Digital Craftsmanship" width="100%" />
 
 # MUHAMMAD FAARI AKBAR
 ### Behavioral Psychology &bull; Data Analytics &bull; Digital Product Builder &bull; Game Concept Designer
@@ -42,9 +42,9 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 
 | Repository | Domain & Architecture | Core Highlights |
 |:---|:---|:---|
-| **[EnglishSteps-Michelle](https://github.com/faarimuhammad2502/EnglishSteps-Michelle)** | Adaptive Language Learning & Cloud Verification | Comprehensive **CEFR A0–A1** platform featuring a 1,000-word lexical corpus, speech synthesis, **Supabase PostgreSQL** cloud persistence, and a public cryptographic certificate verification portal. *[Live Deployment](https://englishsteps-michelle.vercel.app)* |
-| **[web-aplikasi-belajar-omahles](https://github.com/faarimuhammad2502/web-aplikasi-belajar-omahles)** | Early Childhood & Primary EdTech Portal | Multi-tier educational software for Kindergarten and Grades 1–6. Built on Vygotskian ZPD principles with interactive math, literacy modules, and gamified achievement feedback. *[Live Deployment](https://web-aplikasi-omahles.vercel.app)* |
-| **[cept](https://github.com/faarimuhammad2502/cept)** | Cambridge CEFR Assessment Engine | Diagnostic English evaluation platform benchmarking learners toward Cambridge B2–C1 standards. Integrates native Web Speech British listening modules and diagnostic scoring matrices. |
+| **[EnglishSteps-Michelle](https://github.com/faarimuhammad2502/EnglishSteps-Michelle)** | Adaptive Language Learning & Cloud Verification | Comprehensive **CEFR A0â€“A1** platform featuring a 1,000-word lexical corpus, speech synthesis, **Supabase PostgreSQL** cloud persistence, and a public cryptographic certificate verification portal. *[Live Deployment](https://englishsteps-michelle.vercel.app)* |
+| **[web-aplikasi-belajar-omahles](https://github.com/faarimuhammad2502/web-aplikasi-belajar-omahles)** | Early Childhood & Primary EdTech Portal | Multi-tier educational software for Kindergarten and Grades 1â€“6. Built on Vygotskian ZPD principles with interactive math, literacy modules, and gamified achievement feedback. *[Live Deployment](https://web-aplikasi-omahles.vercel.app)* |
+| **[cept](https://github.com/faarimuhammad2502/cept)** | Cambridge CEFR Assessment Engine | Diagnostic English evaluation platform benchmarking learners toward Cambridge B2â€“C1 standards. Integrates native Web Speech British listening modules and diagnostic scoring matrices. |
 
 ---
 
@@ -83,10 +83,10 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 
 ## Professional Background & Philosophy
 
-- **Education:** S1 Psikologi, Universitas Muhammadiyah Prof. Dr. Hamka (UHAMKA) Jakarta (2018–2024).
+- **Education:** S1 Psikologi, Universitas Muhammadiyah Prof. Dr. Hamka (UHAMKA) Jakarta (2018â€“2024).
 - **Practical Experience:**
-  - **Shadow Teacher / Student Mentoring:** SMAIT Buahati Islamic School (July 2025 – Present) &mdash; Behavioral guidance, cognitive adaptation, and personalized pedagogical support.
-  - **Business Analyst Intern:** PT Mahabudi (Jan 2024 – Dec 2024) &mdash; Process mapping, data verification, and operational workflow analysis.
+  - **Shadow Teacher / Student Mentoring:** SMAIT Buahati Islamic School (July 2025 â€“ Present) &mdash; Behavioral guidance, cognitive adaptation, and personalized pedagogical support.
+  - **Business Analyst Intern:** PT Mahabudi (Jan 2024 â€“ Dec 2024) &mdash; Process mapping, data verification, and operational workflow analysis.
 - **Certifications:** Talent Management Specialist, Data Analysis Fundamentals.
 - **Execution Philosophy:** *Clarity over complexity, execution over endless planning, and human value over superficial decoration.*
 
@@ -97,3 +97,4 @@ Whether architecting statutory-compliant human capital systems, developing cogni
 - **LinkedIn:** [linkedin.com/in/faarimuhammad](https://linkedin.com/in/faarimuhammad)
 - **GitHub:** [github.com/faarimuhammad2502](https://github.com/faarimuhammad2502)
 - **Location:** Jakarta, Indonesia
+
